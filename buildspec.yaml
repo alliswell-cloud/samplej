@@ -14,4 +14,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/aws-build-sample-maven-project-0.0.1-SNAPSHOT.jar
+    - target/samplej-0.0.1-SNAPSHOT.jar
