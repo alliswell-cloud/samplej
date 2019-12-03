@@ -14,4 +14,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/kahnnannajabxjaxjax-0.0.1-SNAPSHOT.jar
+    - target/aws-build-sample-maven-project-0.0.1-SNAPSHOT.jar
