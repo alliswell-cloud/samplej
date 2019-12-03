@@ -8,4 +8,4 @@ phases:
     commands:
       - java -version
       - sudo yum install -y apache-maven
-      - mvn-version
+      - mvn- version
