@@ -14,4 +14,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/samplej-0.0.1-SNAPSHOT.jar
+    - target/kahnnannajabxjaxjax-0.0.1-SNAPSHOT.jar
