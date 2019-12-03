@@ -7,4 +7,5 @@ phases:
   build:
     commands:
       - java -version
-      - mvn install
+      - sudo yum install -y apache-maven
+      - mvn-version
