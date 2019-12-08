@@ -22,4 +22,4 @@ phases:
       - echo Pushing the Docker image.
 artifacts:
   files:
-    - HelloWorld.java
+    - helloworld.java
